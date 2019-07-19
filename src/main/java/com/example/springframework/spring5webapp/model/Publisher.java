@@ -20,6 +20,9 @@ public class Publisher
         this.address = address;
     }
 
+    public Publisher() {
+    }
+
     public Long getId() {
         return id;
     }
